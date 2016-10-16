@@ -1,0 +1,6 @@
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\bin\Debug\TheNumberGuessingGame_robins4.exe.config
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\bin\Debug\TheNumberGuessingGame_robins4.exe
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\bin\Debug\TheNumberGuessingGame_robins4.pdb
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\obj\Debug\TheNumberGuessingGame_robins4.csprojResolveAssemblyReference.cache
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\obj\Debug\TheNumberGuessingGame_robins4.exe
+c:\users\jennifer\documents\visual studio 2015\Projects\TheNumberGuessingGame_robins4\TheNumberGuessingGame_robins4\obj\Debug\TheNumberGuessingGame_robins4.pdb
